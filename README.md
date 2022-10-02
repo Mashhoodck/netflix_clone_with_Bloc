@@ -1,4 +1,4 @@
-# netflix_bloc
+# netflix_clone _ with bloc
 
 A new Flutter project.
 
